@@ -25,7 +25,7 @@ SECRET_KEY = 'v4an21(n3ig33@yn%$whxo#-z7$2av_g(3m(#g6a^x@u14sr_z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ebanist.pythonanywhere.com]
 
 
 # Application definition
